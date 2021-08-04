@@ -8,6 +8,8 @@ name = "pypi"
 [dev-packages]
 pytest = "*"
 ipython = "*"
+freezegun = "*"
+types-freezegun = "*"
 
 [requires]
 python_version = "3.9"
